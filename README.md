@@ -1,6 +1,6 @@
 # 🌦️ Weather App
 
-![Weather App](Downloads/Screenshot 2024-02-07 200315.png)
+
 
 ## Overview
 The Weather App is a React.js web application that provides users with real-time weather information for different cities. Users can search for weather details, view current conditions, and save their favorite cities for quick access to weather updates.
@@ -45,5 +45,3 @@ Copy code
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request for any enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICEN
